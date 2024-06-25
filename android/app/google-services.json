@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367418595590",
+    "project_id": "collegehub-5bde3",
+    "storage_bucket": "collegehub-5bde3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367418595590:android:5b17876bc9683710f32687",
+        "android_client_info": {
+          "package_name": "com.aljamia.csproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOJYVxBTToRtHK5s4hj72SY2XPWo4g_t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
